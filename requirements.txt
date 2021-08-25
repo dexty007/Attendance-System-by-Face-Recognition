@@ -72,7 +72,7 @@ tensorboard==2.2.0
 tensorboard-plugin-wit==1.6.0.post3
 tensorflow==2.2.0rc2
 tensorflow-estimator==2.2.0rc0
-tensorflow-gpu==2.2.0rc3
+tensorflow-gpu==2.5.1
 termcolor==1.1.0
 traitlets==4.3.3
 urllib3==1.25.8
